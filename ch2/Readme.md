@@ -102,5 +102,7 @@ There are 4 complete minutes in 257 seconds.
 3.0
 ```
 
-
-
+ฟังก์ชัน divmod(x, y) จะเหมือนกับการใช้ 
+```Python
+x // y, x % y
+```
